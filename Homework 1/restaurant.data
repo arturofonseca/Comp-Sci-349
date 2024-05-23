@@ -1,0 +1,13 @@
+Alternate,Bar,Fri/Sat,Hungry,Patrons,Price,Raining,Reservation,Type,WaitEstimate,Class
+1,0,0,1,Some,$$$,0,1,French,0-10,True
+1,0,0,1,Full,$,0,0,Thai,30-60,False
+0,1,0,0,Some,$,0,0,Burger,0-10,True
+1,0,1,1,Full,$,0,0,Thai,10-30,True
+1,0,1,0,Full,$$$,0,1,French,>60,False
+0,1,0,1,Some,$$,1,1,Italian,0-10,True
+0,1,0,0,None,$,1,0,Burger,0-10,False
+0,0,0,1,Some,$$,1,1,Thai,0-10,True
+0,1,1,0,Full,$,1,0,Burger,>60,False
+1,1,1,1,Full,$$$,0,1,Italian,10-30,False
+0,0,0,0,None,$,0,0,Thai,0-10,False
+1,1,1,1,Full,$,0,0,Burger,30-60,True
